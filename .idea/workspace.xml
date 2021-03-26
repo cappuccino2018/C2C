@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf30b102-090f-4eeb-9a94-3a2ec434fc93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/demo-dubbo-nacos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/java/com/zhss/demo/dubbo/nacos/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/java/com/zhss/demo/dubbo/nacos/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/java/com/zhss/demo/dubbo/nacos/ServiceAImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/java/com/zhss/demo/dubbo/nacos/ServiceAImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/java/com/zhss/demo/dubbo/nacos/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/java/com/zhss/demo/dubbo/nacos/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/java/com/zhss/demo/dubbo/nacos/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/java/com/zhss/demo/dubbo/nacos/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/src/main/java/com/zhss/demo/dubbo/nacos/api/ServiceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/src/main/java/com/zhss/demo/dubbo/nacos/api/ServiceA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dubbo-nacos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dubbo-nacos/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qIIYd1phDsva4ml77eujzKpnXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-dubbo-nacos/pom.xml" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf30b102-090f-4eeb-9a94-3a2ec434fc93" name="Default Changelist" comment="" />
+      <created>1616760725423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616760725423</updated>
+      <workItem from="1616760727230" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1616760741294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.-115.1440.960/0.0.1920.1080@0.0.1920.1080" timestamp="1616760741294" />
+  </component>
+</project>
